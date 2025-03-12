@@ -1,7 +1,7 @@
 # Spotify_GCN
 
-The increasing demand for personalized music experiences has led to the development of ad-
-vanced recommendation systems. This project focuses on designing a Spotify Songs Recommenda-
+The increasing demand for personalized music experiences has led to the development of ad
+vanced recommendation systems. This project focuses on designing a Spotify Songs Recommenda
 tion System leveraging Graph Neural Networks (GNNs), including LightGCN and SAGEConv, to
 predict playlist-track relationships effectively. By utilizing the Spotify Million Playlist Dataset, we
 represent user-song interactions as a bipartite graph, applying K-core analysis to reduce compu-
@@ -11,6 +11,8 @@ tracks. Our approach balances efficiency and representation richness, with Light
 scalability for large datasets and SAGEConv enabling nuanced neighborhood aggregations. The
 evaluation metrics, Recall@K and ROC-AUC, demonstrate the effectiveness of the proposed mod-
 els, with SAGEConv outperforming LightGCN in capturing user preferences.
+
+Goal : Develop a Graph Neural Network-based recommendation system to deliver personalized Spotify song recommendations. The aim is to learn to predict the playlist-track edges well
 
 
 ## The Models that we used for our project were: 
