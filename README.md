@@ -33,7 +33,7 @@ els, with SAGEConv outperforming LightGCN in capturing user preferences.
 
 
 
-Here were our results: 
+## Results: 
 1. ROC_AUC
    
 ![Diagram of the project](ROC_AUC.png "Project Diagram")
